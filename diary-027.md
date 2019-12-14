@@ -8,4 +8,9 @@
 >
 >>### cs-ej4101-fall-2019-027-starter
 >
->Even though it was not mentioned in the _Diary-027.md_ file. A coordinator had posted a recommendation in Slack on how to fix this problem. A _config.yml_ file had to be made, where I could add my preferred title. The additional files like a README, GITIGNORE and etc have to be added too as this is a version control folder. However, I was familiar with these from previous projects.
+>Even though it was not mentioned in the _Diary-027.md_ file. A coordinator had posted a recommendation in Slack on how to fix this problem. A _config.yml_ file had to be made, where I could add my preferred title. The additional files like:
+>
+>* README
+>* GITIGNORE
+>* etc
+>have to be added too as this is a version control folder. However, I was familiar with these from previous projects.
