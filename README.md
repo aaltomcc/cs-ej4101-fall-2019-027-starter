@@ -1,1 +1,3 @@
-#cs-ej4101-fall-2019-027-starter
+**Project name:** Starter Project
+
+**Description:** This is the Starter Project that consists of an Heading, About section, image and a link to my diary
