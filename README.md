@@ -5,5 +5,7 @@
 **Content:**
 
  *Config : Used to remove 1st heading
+ 
  *Index : Consist of the Heading, about section, image and link to diary.
+ 
  *Diary : Consists of paragraphs explaining why I took this course and what I have learned.
